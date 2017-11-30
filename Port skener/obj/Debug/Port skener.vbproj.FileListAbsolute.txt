@@ -1,0 +1,20 @@
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\bin\Debug\Port skener.exe.config
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\bin\Debug\Port skener.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\bin\Debug\Port skener.pdb
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\bin\Debug\Port skener.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port_skener.Form1.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port_skener.Resources.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port skener.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port skener.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port skener.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Port skener\obj\Debug\Port skener.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\bin\Debug\Port skener.exe.config
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\bin\Debug\Port skener.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\bin\Debug\Port skener.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\bin\Debug\Port skener.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port_skener.Form1.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port_skener.Resources.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port skener.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port skener.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port skener.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Port skener\Port skener\obj\Debug\Port skener.pdb
